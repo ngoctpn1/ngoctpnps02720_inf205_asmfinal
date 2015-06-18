@@ -1,6 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Imports System.Data.DataTable
-
+'Đã chỉnh sửa
 Public Class frmChiTietHoaDon
 
     Dim database As New DataTable ' Tạo đối tượng database để lưu trữ dữ liệu từ Database Online'

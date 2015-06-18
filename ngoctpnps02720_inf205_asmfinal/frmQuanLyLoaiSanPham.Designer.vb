@@ -153,6 +153,7 @@ Partial Class frmQuanLyLoaiSanPham
         '
         Me.dgvDanhSachLoai.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.dgvDanhSachLoai.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
         Me.dgvDanhSachLoai.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvDanhSachLoai.Location = New System.Drawing.Point(237, 160)
         Me.dgvDanhSachLoai.Name = "dgvDanhSachLoai"

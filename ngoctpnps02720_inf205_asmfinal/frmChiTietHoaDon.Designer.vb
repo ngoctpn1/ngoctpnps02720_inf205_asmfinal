@@ -221,6 +221,7 @@ Partial Class frmChiTietHoaDon
         '
         Me.dgvDanhSachCTHD.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.dgvDanhSachCTHD.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
         Me.dgvDanhSachCTHD.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgvDanhSachCTHD.Location = New System.Drawing.Point(9, 253)
         Me.dgvDanhSachCTHD.Name = "dgvDanhSachCTHD"
