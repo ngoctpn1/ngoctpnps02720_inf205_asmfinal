@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ngoctpnps02720_inf205_asmfinal
+</name>
+</assembly>
+<members>
+<member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.cart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.dialog_cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.eraser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.hinh_nen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.hotro">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.Nhan_vien">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.quan_tri">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.sửa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.system">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources.thêm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ngoctpnps02720_inf205_asmfinal.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
